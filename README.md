@@ -2,7 +2,7 @@
 
 <p align="center">════════════════════════════</p>
 
-<p align="left"><strong>Who's Pietro? 👇🏼</strong></p>
+<h3 align="left"><strong>Who's Pietro? 👇🏼</strong></h3>
 
 <pre align="left">╰┈➤ 📍 Living in Paraná, Brazil  
 ╰┈➤ 📚 Studying at UTFPR – Campo Mourão Campus  
@@ -13,14 +13,14 @@
 
 <p align="center">════════════════════════════</p>
 
-<p align="left"><strong>Code with:</strong></p>
+<h2 align="left"><strong>Code with:</strong></h2>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,py" />
   </a>
 </p>
 
-<p align="left"><strong>Learning:</strong></p>
+<h2 align="left"><strong>Learning:</strong></h2>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java" />
