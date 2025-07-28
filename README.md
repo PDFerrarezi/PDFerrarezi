@@ -1,6 +1,6 @@
 <h1 align="left">Heyy 𐔌՞. .՞𐦯</h1>
 
-<p align="center">════════════════════════════</p>
+<h3 align="center">════════════════════════════</h3>
 
 <h3 align="left"><strong>Who's Pietro? 👇🏼</strong></h3>
 
@@ -11,7 +11,7 @@
 ╰┈➤ 🥉 Bronze medalist in the National Artificial Intelligence Olympiad (ONIA), Brazil
 </pre>
 
-<p align="center">════════════════════════════</p>
+<h3 align="center">════════════════════════════</h3>
 
 <h2 align="left"><strong>Code with:</strong></h2>
 <p align="left">
