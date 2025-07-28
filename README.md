@@ -4,7 +4,12 @@
 
 <h2 align="left">Who's Pietro? 👇🏼</h2>
 
-<pre align="left">╰┈➤ Living in Paraná, Brazil<br>╰┈➤ Studying at UTFPR - Campus Camṕo Mourão<br>  ➤ Course: "Integrated Technical Program in Internet Computing"<br>╰┈➤ I love biology, but computing has my heart ❤️ lol<br>╰┈➤ Bronze Medalist in the National Artificial Intelligence Olympiad (ONIA), Brazil</pre>
+<pre align="left">╰┈➤ Living in Paraná, Brazil  
+╰┈➤ Studying at UTFPR – Campo Mourão Campus  
+  ➤ Integrated Technical Program in Internet Computing
+╰┈➤ Although I have a strong interest in biology, my true passion lies in computing.
+╰┈➤ Bronze medalist in the National Artificial Intelligence Olympiad (ONIA), Brazil
+</pre>
 
 <h3 align="center">════════════════════════════</h3>
 <h2 align="left">Code with:</h2>
