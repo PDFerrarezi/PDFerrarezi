@@ -1,24 +1,24 @@
-<h1 align="left">Heyy</h1>
+<h1 align="center">Heyy 𐔌՞. .՞𐦯</h1>
 
 ###
 
-<p align="left">My name is Pietro and I'm a FullStack Dev, from Paraná, Brazil</p>
+<h2>Who's Pietro? 👇🏼</h2>
 
 ###
 
-<h2 align="left">About me</h2>
+<pre align="left">╰┈➤ Living in Paraná, Brazil<br>╰┈➤ Studying at UTFPR - Campus Camṕo Mourão<br>  ➤ Course: "Integrated Technical Program in Internet Computing"<br>╰┈➤ I love biology, but computing has my heart ❤️ lol<br>╰┈➤ Bronze Medalist in the National Artificial Intelligence Olympiad (ONIA), Brazil</pre>
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning A.I development</p>
+<h3 align="center">══════════════</h3>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Code with:</h2>
 
 ###
 
-<p align="center">
+<p align="left">
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,js,py" />
 </a>
@@ -26,11 +26,11 @@
 
 ###
 
-<h2>And I'm learning</h2>
+<h2 align="left">Learning:</h2>
 
 ###
 
-<p align="center">
+<p align="left">
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=java" />
 </a>
