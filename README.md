@@ -1,8 +1,8 @@
 <h1 align="left">Heyy 𐔌՞. .՞𐦯</h1>
 
-<h3 align="center">════════════════════════════</h3>
+<p align="center">════════════════════════════</p>
 
-<h2 align="left">Who's Pietro? 👇🏼</h2>
+<p align="left"><strong>Who's Pietro? 👇🏼</strong></p>
 
 <pre align="left">╰┈➤ 📍 Living in Paraná, Brazil  
 ╰┈➤ 📚 Studying at UTFPR – Campo Mourão Campus  
@@ -11,16 +11,18 @@
 ╰┈➤ 🥉 Bronze medalist in the National Artificial Intelligence Olympiad (ONIA), Brazil
 </pre>
 
-<h3 align="center">════════════════════════════</h3>
-<h2 align="left">Code with:</h2>
+<p align="center">════════════════════════════</p>
+
+<p align="left"><strong>Code with:</strong></p>
 <p align="left">
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py" />
-</a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,py" />
+  </a>
 </p>
-<h2 align="left">Learning:</h2>
+
+<p align="left"><strong>Learning:</strong></p>
 <p align="left">
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java" />
-</a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
 </p>
