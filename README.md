@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="left">Heyy</h1>
 
-<!--
-**PDFerrarezi/PDFerrarezi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">My name is Pietro and I'm a FullStack Dev, from Paraná, Brazil</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning A.I development</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<p align="center">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,py" />
+</a>
+</p>
+
+###
+
+<h2>And I'm learning</h2>
+
+###
+
+<p align="center">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java" />
+</a>
+</p>
