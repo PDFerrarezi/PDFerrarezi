@@ -7,7 +7,6 @@
 <pre align="left">╰┈➤ 📍 Living in Paraná, Brazil  
 ╰┈➤ 📚 Studying at UTFPR – Campo Mourão Campus  
   ➤ Integrated Technical Program in Internet Computing
-╰┈➤ 🌱 Although I have a strong interest in biology, my true passion lies in computing.
 ╰┈➤ 🥉 Bronze medalist in the National Artificial Intelligence Olympiad (ONIA), Brazil
 </pre>
 
