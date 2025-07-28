@@ -1,4 +1,5 @@
 <h1 align="left">Heyy 𐔌՞. .՞𐦯</h1>
+<br>
 
 ###
 
@@ -9,17 +10,13 @@
 ###
 
 <h3 align="center">════════════════════════════</h3>
-
 <h2 align="left">Code with:</h2>
-
 <p align="left">
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,js,py" />
 </a>
 </p>
-
 <h2 align="left">Learning:</h2>
-
 <p align="left">
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=java" />
