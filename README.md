@@ -19,10 +19,3 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,py" />
   </a>
 </p>
-
-<h2 align="left"><strong>Learning:</strong></h2>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java" />
-  </a>
-</p>
