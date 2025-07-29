@@ -4,8 +4,8 @@
 
 <h3 align="left"><strong>Who's Pietro? 👇🏼</strong></h3>
 
-<pre align="left">╰┈➤ 📍 Living in Paraná, Brazil  
-╰┈➤ 📚 Studying at UTFPR – Campo Mourão Campus  
+<pre align="left">╰┈➤ 📍 Living in Brazil
+╰┈➤ 📚 Studying at UTFPR
   ➤ Integrated Technical Program in Internet Computing
 ╰┈➤ 🥉 Bronze medalist in the National Artificial Intelligence Olympiad (ONIA), Brazil
 </pre>
